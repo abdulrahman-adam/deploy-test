@@ -1,0 +1,14 @@
+{
+	"name": "app",
+	"version": "1.0.0",
+	"description": "Project generated with Smartmaker!",
+	"license": "MIT",
+  "type": "module",
+   "scripts": {
+    "ping":"echo Pong"
+	},
+	"devDependencies": {
+	},
+	"dependencies": {
+	}
+}

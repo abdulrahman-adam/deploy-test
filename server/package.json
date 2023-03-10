@@ -1,0 +1,19 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"description": "Express app generated with Smartmaker!",
+	"license": "MIT",
+  "type": "module",
+   "scripts": {
+    "dev":"nodemon ./src/index.js",
+    "start":"node ./src/index.js",
+    "ping":"echo Pong"
+	},
+	"devDependencies": {
+    "nodemon":"*",
+    "rimraf": "*"
+	},
+	"dependencies": {
+		"express": "*"
+	}
+}

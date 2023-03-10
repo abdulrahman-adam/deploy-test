@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "language": "fr",
+  "useTypescript": false,
+  "useDocker": false,
+  "useYarn": false,
+  "services": {
+    "express": {
+      "appName": "server",
+      "port": "3001",
+      "color": "#F18E16"
+    },
+    "react": {
+      "appName": "front",
+      "port": "3000",
+      "color": "#24C2FD"
+    }
+  }
+}
